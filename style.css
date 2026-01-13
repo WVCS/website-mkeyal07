@@ -16,15 +16,6 @@ h1 {
 	color: azure;
 	letter-spacing: -1px;
 	text-shadow: 1px 1px 7px #DC7171
-body {
-  margin: 0;
-  padding: 0;
-}
-
-h2, p {
-  margin: 10px;
-}
-
 ul {
   list-style-type: none;
   margin: 0;
